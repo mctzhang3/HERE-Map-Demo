@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Brand Colors-->
+    <!--Brand colors are used for floods, links, and headlines-->
+    <color name="white">#FFFFFF</color>
+    <color name="mineral">#08BFC1</color>
+    <color name="mineral25">#1C08BFC1</color>
+    <color name="navy">#065B7C</color>
+    <color name="dashboard_header_color">#202020</color>
+    <color name="charcoal">#383838</color>
+    <color name="black">#000000</color>
+
+    <!--Grey scale-->
+    <!--Grey scale colors are used for backgrounds, stokes, and text.-->
+    <color name="grey10">#F6F6F6</color>
+    <color name="grey25">#E3E3E3</color>
+    <color name="grey35">#C3C3C3</color>
+    <color name="grey50">#A5A5A5</color>
+    <color name="grey55">#949494</color>
+    <color name="grey58">#ABB2B2</color>
+    <color name="grey60">#8E8E8E</color>
+    <color name="grey70">#747474</color>
+    <color name="grey80">#585858</color>
+    <color name="grey90">#4A4A4A</color>
+    <color name="grey91">#ABB2B2</color>
+
+
+    <!--Action-->
+    <!--Action colors are typically used to denote status and ranking.-->
+    <color name="blue">#157BE3</color>
+    <color name="green">#50D078</color>
+    <color name="yellow">#FCCA40</color>
+    <color name="red">#F35757</color>
+
+
+    <!--Avatars-->
+    <!--Avatar colors are used to identify people and vehicles throughout the experience.-->
+    <color name="gold">#E0C050</color>
+    <color name="purple">#9B78BA</color>
+    <color name="rose">#DC7373</color>
+    <color name="brown">#BC8C6E</color>
+    <color name="orange">#EF9862</color>
+    <color name="sky">#5AAADB</color>
+
+    <!--Colors with transparent background. Number indicates the percentage of opacity-->
+    <color name="white_59">#59FFFFFF</color>
+    <color name="white_b4">#b4FFFFFF</color>
+    <color name="black_1E">#1E000000</color>
+    <color name="black_AA">#AA000000</color>
+    <color name="off_black">#2A2A2A</color>
+    <color name="charcoal_33">#33383838</color>
+    <color name="charcoal_80">#80383838</color>
+    <color name="charcoal_f2">#F2383838</color>
+    <color name="charcoal_e6">#E6383838</color>
+    <color name="red_25">#25F35757</color>
+    <color name="mineral_25">#2508BFC1</color>
+    <color name="white_00">#00ffffff</color>
+    <color name="white_99">#99ffffff</color>
+    <color name="off_white_50">#50CCCCCC</color>
+    <color name="white_50_percent">#80FFFFFF</color>
+
+    <color name="pink_25">#FEEEEE</color>
+    <color name="blue_25">#E7F2FD</color>
+    <color name="green_25">#E7F9F9</color>
+    <color name="dark_blue">#235B7C</color>
+
+    <color name="green_50">#FF9EE44B</color>
+    <color name="black_solid">#0C0C0C</color>
+    <color name="light_red">#26F17D39</color>
+    <color name="charcoal_35">#5B4335</color>
+    <color name="light_grey">#F5F5F5</color>
+    <color name="dark_grey">#5C3C3C43</color>
+    <!--Ratings bar-->
+
+</resources>

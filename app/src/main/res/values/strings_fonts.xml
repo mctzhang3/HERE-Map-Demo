@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="font_sharp_sans_bold">"@font/sharpsans_bold"</string>
+    <string name="font_sharp_sans_bold_italic">"@font/sharpsans_bold_italic"</string>
+    <string name="font_sharp_sans_book">"@font/sharpsans_book"</string>
+    <string name="font_sharp_sans_book_italic">"@font/sharpsans_book_italic"</string>
+    <string name="font_sharp_sans_light">"@font/sharpsans_light"</string>
+    <string name="font_sharp_sans_medium">"@font/sharpsans_medium"</string>
+    <string name="font_sharp_sans_semibold">"@font/sharpsans_semibold"</string>
+
+
+</resources>
