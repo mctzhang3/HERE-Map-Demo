@@ -86,7 +86,7 @@ object Utils {
     }
 
     fun getContactPhotoUriFromPhoneNumber(context: Context, phoneNumber: String?): Uri? {
-        val contactId = fetchContactIdFromPhoneNumber(context, phoneNumber)?.toLong()
+        val contactId = fetchContactIdFromPhoneNumber(context, phoneNumber)?.toLongOrNull()
         if (contactId != null) {
             return getPhotoUri(context, contactId)
         }
