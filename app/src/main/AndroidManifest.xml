@@ -32,13 +32,6 @@
             android:name="com.here.sdk.access_key_secret"
             android:value="${HereSDKkeySecret}" />
 
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-            </intent-filter>
-        </activity>
     </application>
 
 </manifest>
